@@ -90,7 +90,7 @@ using LearnBlazer.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\nthe9\Desktop\LearnBlazor\LearnBlazer\Shared\NavMenu.razor"
+#line 33 "C:\Users\nthe9\Desktop\LearnBlazor\LearnBlazer\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
